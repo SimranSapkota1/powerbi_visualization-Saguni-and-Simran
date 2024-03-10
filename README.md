@@ -4,7 +4,8 @@ Power Bi Desktop Interpretation
 The following project showcases the data visualization of sales dataset for foods and beverages industry. The dataset is collected from Kaggle with the objective to visualize the data and the data encompasses the sales information of the year 2019 and presents insights on product category, sales trend, product performance etc.
 1.	Overview of the Sales Data:
 The Sales data for foods and beverages comprises of information including Quantity, Product category, Product Group, Salesperson etc. The key objective of this visualization is to understand how revenue model is affected these factors such as channel, Product Category, Product Group, Sales person etc. through month and Quarters.
-2.	Key Insights
+
+3.	Key Insights
 
 i.)	Revenue Model and Orders: The visualization shows the Revenue model and orders by month and Quarter, by Salesperson, by Product group etc. in Quarter 1, 2, 3 and 4. This revenue affect can help in making decision on which determinants the improvement is needed
 ii.)	Sales Trends over the years: The visualization also presents insights on how the sales trends changes over the year through factors such as Sales Person, Product Category and group. Analyzing such trends helps in better understanding of the seasonal patterns and overall fluctuation of the model.
