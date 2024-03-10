@@ -1,5 +1,5 @@
 # powerbi_visualization-Saguni-and-Simran
-This project includes the dashboard overview of revenue model and sales order throughout the Quarter of the year 2019.
+This project includes the dashboard overview of revenue model and sales order throughout the Quarter of the year 2019. The power bi Project is Created by Saguni Thapa Magar and Simran Sapkota as a pair project.
 
 Power Bi Desktop Interpretation
 
