@@ -12,7 +12,7 @@ i.) Model relationship Management: The model relationship in powerbi shows how o
 
 ii.) Implementation of Dax Formulas: Dax formulas can be an effective way to interpret the complex problem in the dataset or to understand the exisiting business problems. We created a Sales Amount column, and from the new measure tool in table view through Formula Sales Amount = Sheet1[Quantity]* Sheet1[UnitPrice]. This created a total Sales Amount. This helped in the proper visualization and interpretation of the given datas in dashboard. 
 
-3.	Key Insights
+2.	Key Insights
 
 i.)	Revenue Model and Orders: The visualization shows the Revenue model and orders by month and Quarter, by Salesperson, by Product group etc. in Quarter 1, 2, 3 and 4. This revenue affect can help in making decision on which determinants the improvement is needed
 
